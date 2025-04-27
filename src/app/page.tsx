@@ -98,7 +98,7 @@ export default function Home() {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Get Started?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Whether you're looking for property, financing, construction services, or business solutions, we're here to help.
+            Whether you&apos;re looking for property, financing, construction services, or business solutions, we&apos;re here to help.
           </p>
           <Link href="/contact" className="bg-white text-blue-800 px-8 py-4 rounded-lg font-bold hover:bg-gray-100">
             Contact Us Today
